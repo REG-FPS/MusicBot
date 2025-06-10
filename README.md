@@ -41,9 +41,7 @@ A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**,
 
 ---
 
-## Support
 
-- If you encounter any issues, contact me on Discord: [Unknownz](https://discordapp.com/users/1092773378101882951).
 
 ---
 
