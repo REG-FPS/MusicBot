@@ -48,11 +48,3 @@ A feature-rich music bot for Discord that utilizes **discord.js**, **erela.js**,
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository and submit pull requests.
-
----
-
-## Star the Repository ⭐  
-If you like this project, consider starring the repository to show your support!
-```
-
-This updated version includes your Discord ID link with your header username "Unknownz." Let me know if there's anything else you'd like adjusted!
